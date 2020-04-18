@@ -70,9 +70,14 @@ Hacerse mas alto con Ctrl + S, Menos alto con Ctrl + A
 Una vez abierto DVFANS19 y calibrado se debera presionar Ctrl + F2 en la pestaña de entrenamiento:
 
 Ejemplo:
+
+<br>
 <img src="Imagenes/test161.png?raw=true" width="600">
+<br>
 
 O en el menu de pausa:
 
 Ejemplo:
+<br>
 <img src="Imagenes/test114.png?raw=true" width="600">
+<br>
