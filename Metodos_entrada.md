@@ -62,7 +62,7 @@ Hacerse mas alto con Ctrl + S, Menos alto con Ctrl + A
 #### El cuadro de configuracion debe hacerse coincidir con el de calibración en el juego en:
 
 "Personalizar - Configuración - Video - Calibrar Video"
-<img src="Imagenes/gif1.gif?raw=true" width="450">
+<img src="Imagenes/gif1.gif?raw=true">
 
 
 #Inicio de la aplicación
