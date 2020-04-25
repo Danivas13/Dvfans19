@@ -94,3 +94,9 @@ En la carpeta "audios" se ubicaran una carpeta para los audios de cada equipo y 
 Las carpetas se nombraran con la ID que corresponde a cada equipo en el archivo equipos.txt en  "DBEquipos/equipos.txt"
 
 <img src="Imagenes/estructura carpetas.PNG?raw=true" width="600">
+
+## Audios
+
+Los audios / canticos deberan estar en formato MP3 (.mp3) 
+
+## 
