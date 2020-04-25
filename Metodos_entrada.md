@@ -83,3 +83,14 @@ Ejemplo:
 <br>
 <img src="Imagenes/test114.png?raw=true" width="600">
 <br>
+
+
+# Estructura de de archivos
+
+## Carpetas
+
+En la carpeta "audios" se ubicaran una carpeta para los audios de cada equipo y una carpeta para audios neutrales que ayuden a enriquecer la experiencia.
+
+Las carpetas se nombraran con la ID que corresponde a cada equipo en el archivo equipos.txt en  "DBEquipos/equipos.txt"
+
+<img src="Imagenes/estructura carpetas.PNG?raw=true" width="600">
