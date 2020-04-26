@@ -114,11 +114,11 @@ Ejemplo:
 
 **V.Te Sigo A Todas Partes.mp3** <- Una L o V indica que ese audio solo re reporducir cuando se juega de local o de visitante
 
-**G.Pongan huevos.mp3** <- Una G o P indica que el audio solo se reproducira cuando se va ganando o perdiendo respectivamente
+**G.Pongan huevos.mp3** <- Una G, P o E indica que el audio solo se reproducira cuando se va ganando o perdiendo respectivamente
 
 
 ### Tambien podran realizarse combinaciones de estos codigo por ejemplo:
 
-**L.G.Audio.mp3** <- Un cantico que solo se reproducira cuando es local y se va ganando.
+**L.G.E.Audio.mp3** <- Un cantico que solo se reproducira cuando es local y se va ganando o empantando.
 
 
