@@ -21,12 +21,14 @@ EL juego seguira ocupando toda la pantalla pero permitira a otros aplicaciones f
 
 ### Metodo 1 En el directorio de instalacion ir a "FIFASetup/" y abrir el archivo fifaconfig.exe
 
-<img src="Imagenes/Captura1.PNG?raw=true" width="450">
-<img src="Imagenes/Captura2.PNG?raw=true" width="450">
+<img src="Imagenes/Captura1.PNG?raw=true" width="450"/>
+<img src="Imagenes/Captura2.PNG?raw=true" width="450"/>
 
 ### Metodo 2 En el directorio de Fifa 19 en documentos abrir el archivo fifasetup.ini y 
 - Colocar un 0 en FULLSCREEN y colocar un 1 en WINDOWED_BORDERLESS
-<img src="Imagenes/Captura3.PNG?raw=true" width="450">
+<img src="Imagenes/Captura3.PNG?raw=true" width="450"/><br>
+
+
 # Configuración del HUD
 
 El problema: La detencion de los equipos que estan jugando, el marcador y los goles anotados se realiza mediante
@@ -64,7 +66,7 @@ Hacerse mas alto con Ctrl + S, Menos alto con Ctrl + A
 "Personalizar - Configuración - Video - Calibrar Video"
 
 <br>
-<img src="Imagenes/gif1.gif?raw=true">
+<img src="Imagenes/gif1.gif?raw=true"/>
 <br>
 
 # Inicio de la aplicación
@@ -74,14 +76,14 @@ Una vez abierto DVFANS19 y calibrado se debera presionar Ctrl + F2 en la pestañ
 Ejemplo:
 
 <br>
-<img src="Imagenes/test161.png?raw=true" width="600">
+<img src="Imagenes/test161.png?raw=true" width="600"/>
 <br>
 
 O en el menu de pausa:
 
 Ejemplo:
 <br>
-<img src="Imagenes/test114.png?raw=true" width="600">
+<img src="Imagenes/test114.png?raw=true" width="600"/>
 <br>
 
 
@@ -93,7 +95,7 @@ En la carpeta "audios" se ubicaran una carpeta para los audios de cada equipo y 
 
 Las carpetas se nombraran con la ID que corresponde a cada equipo en el archivo equipos.txt en  "DBEquipos/equipos.txt"
 
-<img src="Imagenes/estructura carpetas.PNG?raw=true" width="600">
+<img src="Imagenes/estructura carpetas.PNG?raw=true" width="600"/>
 
 ## Audios
 
