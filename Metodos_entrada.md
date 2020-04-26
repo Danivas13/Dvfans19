@@ -108,6 +108,8 @@ Se escribiran en el titulo seguido de un "."
 
 Ejemplo:
 **h.himno_barranquilla.mp3**    <- La letra h indica que es un himno y que solo se reproduciraa una vez al comienzo del partido
+                                   Si un audio es marcado como himno no podra contener una Id de equipo que lo marque como solo
+                                   reproducir contra ese rival.
 
 **32.river_decime.mp3** <- Un numero seguido de un punto hace referencia a que ese audio solo se reproducir cuando el equipo este
                         enfrentando a river (ID=32)
