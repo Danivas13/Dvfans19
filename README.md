@@ -1,14 +1,18 @@
-# Metodo de entradas.
-
+# Control manual de la aplicacion mientras se juega.
 Los juegos basados Dirext como Fifa estan protegidos contra cheats y hacer modificaciones grandes
 puede causar un baneo es por eso que esta aplicacion trata de ser lo menos invasiva posible.
 
 La solución a esta limitacion por el momento es usar teclas de funcion combinadas con la tecla Ctrl
 quedando los siguientes teclas establecidas
 
+Ejemplo:
+
 Ctrl + F2      =      Detectar equipos e iniciar servicio de cantos de hinchadas.
 Ctrl + F3      =      Configurar HUD
 
+Para la utilizacion de mando de xbox se utilizo la libreria provista por microsoft xInput.
+
+La aplicacion contiene un exe con interfaz que nos permite asignar teclas y botones del control para las funciones del aplicativo.
 # Capturas de Pantalla y sobreposición
 
 Debido a que los juegos cuando se ejecutan en pantalla completa no pueden ser leidos por aplicaciones externas amenos que se 
