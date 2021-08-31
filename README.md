@@ -58,7 +58,7 @@ Adicionalmente el usuario debera configurarlo cada vez que cambie de monitor por
 
 ### ¿Como?
 
-Despues de presionar F3 aparecera un cuadro rojo que podra:
+Despues de presionar Ctrl + F3 (O la combinacion configurada) aparecera un cuadro morado el cual podra mover usando el teclado o el mouse.
 
 Moverse usando: 
 Ctrl + ←
@@ -81,7 +81,7 @@ Hacerse mas alto con Ctrl + S, Menos alto con Ctrl + A
 
 # Inicio de la aplicación
 
-Una vez abierto DVFANS19 y calibrado se debera presionar Ctrl + F2 en la pestaña de entrenamiento:
+Una vez abierto DVFANS19 y calibrado se debera presionar Ctrl + F2 (O la opcion configurada para teclado o joystick) en la pestaña de entrenamiento:
 
 Ejemplo:
 
@@ -147,4 +147,7 @@ Ejemplo:
 
 **L.G.E.Audio.mp3** <- Un cantico que solo se reproducira cuando es local y se va ganando o empantando.
 
+### Descargar audios
+
+Puede encontrar los canticos de su equipo preferido en: https://www.fanchants.com/
 
