@@ -103,6 +103,7 @@ Ejemplo:
 El procedimiento de agregar nuevos equipos es el siguiente:
 1) se crea una nueva carpeta en el directorio audios con un numero
 2) se edita el archivo DBEquipos/equipos.txt y se agrega una nueva linea para el equipo donde:
+
   NumeroCarpeta-NombreExactoEnMenuDePausa-AbreviaturaEnElMarcador
   
   Ejemplo:
@@ -111,6 +112,7 @@ El procedimiento de agregar nuevos equipos es el siguiente:
 
 "50-JUVENTUS-JUV"
 
+![image](https://user-images.githubusercontent.com/7041371/131586285-34a9afbc-1056-48b3-b0a6-92eb296979b9.png)
 
 
 ## Carpetas
