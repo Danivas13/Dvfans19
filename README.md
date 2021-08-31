@@ -98,6 +98,20 @@ Ejemplo:
 
 
 # Estructura de archivos
+## Equipos
+
+El procedimiento de agregar nuevos equipos es el siguiente:
+1) se crea una nueva carpeta en el directorio audios con un numero
+2) se edita el archivo DBEquipos/equipos.txt y se agrega una nueva linea para el equipo donde:
+  NumeroCarpeta-NombreExactoEnMenuDePausa-AbreviaturaEnElMarcador
+  
+  Ejemplo:
+  ![image](https://user-images.githubusercontent.com/7041371/131585827-7b48886d-0b2b-4801-953f-2227164889c0.png)
+  ![image](https://user-images.githubusercontent.com/7041371/131585899-609bace9-cef9-4fcd-a475-009d4b10efbb.png)
+
+"50-JUVENTUS-JUV"
+
+
 
 ## Carpetas
 
